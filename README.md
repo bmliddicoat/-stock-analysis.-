@@ -29,7 +29,7 @@ The stock results between 2018 and 2017 had quite varying returns.  The tables a
 
 In refactoring the original VBA code, execution times improved dramatically.  The images abovce help show the time cut down from refactoring.   The original code for 2017 ran at around a speed of .2578 seconds.  Well, the refactored code for 2017 was only .06445 seconds.  There was similiar result for 2018.  The orginal code had execution time of .2578 seconds.  The refactored of 2018 had a time of .0664 seconds.  This improvement is due to certain actions that occurred during the refactor coding.  
 
-### VBA Script of Refactoring
+### VBA Alterations for Refactoring
 
 ![alt text](https://github.com/bmliddicoat/Stock-Analysis/blob/main/Screenshots/All_Stock_Analysis1.png?raw=true)
 
