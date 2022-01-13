@@ -23,7 +23,7 @@ The stock results between 2018 and 2017 had quite varying returns.  The tables a
 
 ![alt text](https://github.com/bmliddicoat/Stock-Analysis/blob/main/Resources/Execution2017Refrac.png?raw=true)
 
-![alt text](hhttps://github.com/bmliddicoat/Stock-Analysis/blob/main/Resources/Org_Code_2018.png?raw=true)
+![alt text](https://github.com/bmliddicoat/Stock-Analysis/blob/main/Resources/Org_Code_2018.png?raw=true)
 
 ![alt text](https://github.com/bmliddicoat/Stock-Analysis/blob/main/Resources/Execution2018Ref.png?raw=true)
 
